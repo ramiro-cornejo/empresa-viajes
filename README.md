@@ -19,9 +19,13 @@ La empresa conoce todas las facturas realizadas, sus clientes y los paquetes. Ca
 Realizar un sistema que permita:
 
 1-Crear un nuevo cliente validando todos los datos de ingreso.
+
 2-Listar todas las facturas de un cliente y el total de sus ventas
+
 3-Deshabilitar un paquete.
+
 4-Actualizar el precio de un paquete.
+
 5-Listar los clientes que han tenido al menos dos ventas.
 
 Todo lo que puedan/quieran agregar sobre ésto será bienvenido.
