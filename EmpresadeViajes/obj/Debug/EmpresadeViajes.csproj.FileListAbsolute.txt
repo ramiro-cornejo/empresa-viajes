@@ -1,0 +1,13 @@
+C:\Users\crami\source\repos\EmpresadeViajes\EmpresadeViajes\bin\Debug\EmpresadeViajes.exe.config
+C:\Users\crami\source\repos\EmpresadeViajes\EmpresadeViajes\bin\Debug\EmpresadeViajes.exe
+C:\Users\crami\source\repos\EmpresadeViajes\EmpresadeViajes\bin\Debug\EmpresadeViajes.pdb
+C:\Users\crami\source\repos\EmpresadeViajes\EmpresadeViajes\obj\Debug\EmpresadeViajes.csproj.AssemblyReference.cache
+C:\Users\crami\source\repos\EmpresadeViajes\EmpresadeViajes\obj\Debug\EmpresadeViajes.csproj.SuggestedBindingRedirects.cache
+C:\Users\crami\source\repos\EmpresadeViajes\EmpresadeViajes\obj\Debug\EmpresadeViajes.csproj.CoreCompileInputs.cache
+C:\Users\crami\source\repos\EmpresadeViajes\EmpresadeViajes\obj\Debug\EmpresadeViajes.exe
+C:\Users\crami\source\repos\EmpresadeViajes\EmpresadeViajes\obj\Debug\EmpresadeViajes.pdb
+C:\Users\crami\source\repos\EmpresaDeViajes\EmpresadeViajes\bin\Debug\Dapper.dll
+C:\Users\crami\source\repos\EmpresaDeViajes\EmpresadeViajes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\crami\source\repos\EmpresaDeViajes\EmpresadeViajes\bin\Debug\Dapper.xml
+C:\Users\crami\source\repos\EmpresaDeViajes\EmpresadeViajes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\crami\source\repos\EmpresaDeViajes\EmpresadeViajes\obj\Debug\EmpresadeViajes.csproj.CopyComplete
